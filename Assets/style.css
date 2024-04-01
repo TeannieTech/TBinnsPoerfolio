@@ -28,6 +28,7 @@ header {
     /* padding: 0; */
     padding-left: 100px;
     margin: 0;
+
 }
 
 .inline-nav li {
@@ -35,3 +36,39 @@ header {
     margin-right: 200px; /* Adjust as needed */
 }
 
+.detail {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+
+.card-footer {
+    text-align: right;
+   }
+
+
+   .futureWork .card {
+    border: 5px solid #1F252E;
+    border-radius: 10px; 
+  
+
+}
+
+.myWorkCurrent .card {
+    border: 5px solid #1F252E;
+    border-radius: 10px; 
+
+}
+
+.intro {
+    margin-right: 20px;
+    margin-left: 20px;   
+}
+
+.myWorkCurrent {
+/* 
+    border-bottom: 5px solid #1F252E;
+    border-radius: 100px;  */
+
+    margin-bottom: 30px;
+}
